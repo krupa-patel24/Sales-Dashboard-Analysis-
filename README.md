@@ -227,9 +227,9 @@ USE superstore_db;
 
 I specialize in turning raw data into actionable business insights using Python, SQL, and Power BI. This project demonstrates my ability to handle the complete analytics pipeline — from data cleaning and exploratory analysis to SQL querying and interactive dashboard creation.
 
-📧 **Email:** your.email@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/yourprofile  
-💼 **Upwork:** upwork.com/freelancers/yourprofile  
+📧 **Email:** pkrupa514@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/krupa-patel02  
+💼 **Upwork:** https://www.upwork.com/freelancers/~01d189166b46482c36
 🐙 **GitHub:** github.com/krupa-patel24  
 
 ---
